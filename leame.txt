@@ -1,0 +1,8 @@
+Instalacion:
+prender apache de xampp.
+abrir el localhost.
+ir a localhost/sistemaescolarv3/setup.php para instalar la base de datos con las tablas.
+
+Cuenta registrada como profesor: Uriel Ceron 123456
+usuario: Uriel
+Pass: 123456 
